@@ -1,13 +1,13 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
-issueTrackerURL = "https://github.com/ajh123/BeQuietNegotiator/issues"
+issueTrackerURL = "https://github.com/samuelh2005/BeQuietNegotiator/issues"
 license = "GPL-3.0"
 
 [[mods]]
 modId = "be_quiet_negotiator"
 version = "${version}"
 displayName = "Be Quiet Negotiator"
-authors = "ajh123"
+authors = "samuelh2005"
 description = '''
 Be Quiet Negotiator is a lightweight, client-side-only NeoForge mod that lets modded clients connect to vanilla or
 minimally modded servers (such as Fabric servers with only server-side mods) without triggering NeoForge’s
